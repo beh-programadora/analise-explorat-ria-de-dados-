@@ -1,0 +1,32 @@
+nvidia-exploratory-analysis/
+│
+├── src/
+│   └── nvidia_analysis.ipynb   # Notebook com a análise exploratória completa
+│   └── nvidia_analysis.py       # (Opcional) Script Python com a análise exploratória completa
+│
+├── data/
+│   └── nvidia.csv               # Dataset CSV fornecido (opcional, se não for utilizado diretamente do Google Drive)
+│
+├── requirements.txt             # Lista de dependências do projeto
+├── .gitignore                    # Arquivos e diretórios a serem ignorados pelo Git
+├── README.md                     # Documentação do projeto
+└── results/
+    └── histograma_variaveis.png # (Exemplo) Gráficos gerados pela análise
+    └── grafico_barras_categorias.png
+    └── grafico_pizza.png
+    └── grafico_dispersao.png
+    └── boxplot.png
+    └── matriz_calor.png
+
+src/: Diretório contendo o código-fonte do projeto.
+
+nvidia_analysis.ipynb: Jupyt
+nvidia_analysis.py: (O
+data/:D
+
+nvidia.csv: Arquivo CS
+requirements.txt: Arquivo de t
+
+pandas
+matplotlib
+seaborn
