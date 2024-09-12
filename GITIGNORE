@@ -1,0 +1,39 @@
+# Arquivos e diretórios de dados
+data/
+*.csv
+
+# Arquivos temporários do Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Arquivos de configuração e de ambiente
+*.env
+*.venv/
+*.virtualenv/
+
+# Arquivos gerados por Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de modelo treinado
+*.pkl
+*.h5
+
+# Arquivos de logs
+*.log
+
+# Arquivos gerados por IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+
+data/: Eu
+*.csv: Igno
+*.pyc, *.pyo,__pycache__/ : Igno
+*.env, *.venv/,*.virtualenv/ : Ignorar arquivo
+.ipynb_checkpoints/: Igno
+*.pkl,*.h5 : Ignorante.pkle.h5.
+*.log: EU
+.vscode/, .idea/, *.suo, *.user,*.swp :
