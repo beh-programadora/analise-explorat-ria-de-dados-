@@ -51,4 +51,15 @@ Matriz de Calor : Identifica relacionamentos e correlações entre variáveis �
 Exemplos de Insights
 Correlação entre desempenho gráfico e consumo de energia : Analisada por meio de gráficos de dispersão.
 Distribuição de categorias de produtos : Exibida em gráficos de barras e pizza.
-Identificação de outliers : Detectados através de b
+
+LICENSE MIT
+MIT License
+
+
+
+Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para lidar com o Software sem restrições, incluindo, sem limitação, os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software, desde que as seguintes condições sejam atendidas:
+
+A cópia do Software deve incluir o aviso de direitos autorais acima e esta permissão.
+
+O Software é fornecido "como está", sem garantia de qualquer tipo, expressa ou implícita, incluindo, mas não se limitando a, garantias implícitas de comercialização, adequação a um propósito específico e não violação. Em nenhum caso os autores ou titulares dos direitos autorais serão responsáveis por qualquer reclamação, dano ou outra responsabilidade, seja em uma ação de contrato, torto ou outro, decorrente de, fora ou em conexão com o Software ou o uso ou outros negócios no Software.
+
